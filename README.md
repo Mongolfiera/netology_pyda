@@ -1,2 +1,4 @@
-# Homework 0
-## working with git
+# PYDA Homeworks
+
+0. Знакомство с git
+1. Python basics
