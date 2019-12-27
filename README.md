@@ -5,3 +5,4 @@
 1. [Python data types and loops - 1](https://github.com/Mongolfiera/netology_pyda/blob/master/python-data_types-loops/pyda-1.2.1-hw.ipynb)
 1. [Python data types and loops - 2](https://github.com/Mongolfiera/netology_pyda/blob/master/python-data_types-loops/pyda-1.2.2-hw.ipynb)
 1. [Python functions](https://github.com/Mongolfiera/netology_pyda/blob/master/python-functions/pyda-functions-hw.ipynb)
+1. [Working with files and modules](https://github.com/Mongolfiera/netology_pyda/blob/master/python-read-write/pyda-read-write-hw.ipynb)
