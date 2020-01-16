@@ -7,3 +7,4 @@
 1. [Python functions](https://github.com/Mongolfiera/netology_pyda/blob/master/python-functions/pyda-functions-hw.ipynb)
 1. [Working with files and modules](https://github.com/Mongolfiera/netology_pyda/blob/master/python-read-write/pyda-read-write-hw.ipynb)
 1. [Regular expressions](https://github.com/Mongolfiera/netology_pyda/blob/master/python-regex/Regex-hw.ipynb)
+1. [Errors and Dates / Time](https://github.com/Mongolfiera/netology_pyda/blob/master/python-date-error/pyda-errors-hw.ipynb)
