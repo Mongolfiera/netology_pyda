@@ -10,7 +10,7 @@
 1. [Working with files and modules](https://github.com/Mongolfiera/netology_pyda/blob/master/python-read-write/pyda-read-write-hw.ipynb)
 1. [Regular expressions](https://github.com/Mongolfiera/netology_pyda/blob/master/python-regex/Regex-hw.ipynb)
 1. [Errors and Dates / Time](https://github.com/Mongolfiera/netology_pyda/blob/master/python-date-error/pyda-errors-hw.ipynb)
-1. [Classes and inheritance] (https://github.com/Mongolfiera/netology_pyda/blob/master/python-classes/pyda-class-hw.ipynb)
+1. [Classes and inheritance](https://github.com/Mongolfiera/netology_pyda/blob/master/python-classes/pyda-class-hw.ipynb)
 
 [Лабораторная работа 1 по курсу «Python для анализа данных»](https://github.com/Mongolfiera/netology_pyda/blob/master/python-lab-1/pyda-lab-1.ipynb)
 
