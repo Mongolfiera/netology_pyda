@@ -16,4 +16,4 @@
 
 ## NumPy, pandas, MPL
 
-1. Библиотека numpy. Вычислительные задачи.
+1. [Библиотека numpy. Вычислительные задачи](https://github.com/Mongolfiera/netology_pyda/blob/master/libs-numpy-hw/libs-numpy-hw.ipynb)
