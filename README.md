@@ -19,4 +19,5 @@
 1. [Библиотека numpy. Вычислительные задачи](https://github.com/Mongolfiera/netology_pyda/blob/master/libs-numpy-hw/libs-numpy-hw.ipynb)
 1. [Библиотека Pandas](https://github.com/Mongolfiera/netology_pyda/blob/master/libs-pandas-basics/libraries-pandas-hw.ipynb)
 1. [Функции в Pandas](https://github.com/Mongolfiera/netology_pyda/blob/master/libs-pandas-functions/libs-pandas-functions-hw.ipynb)
-1. [Продвинутый pandas-1](https://github.com/Mongolfiera/netology_pyda/blob/master/libs-avd-pandas/libs-adv-pandas1-hw.ipynb)
+1. [Продвинутый pandas-1: pivot tables](https://github.com/Mongolfiera/netology_pyda/blob/master/libs-avd-pandas/libs-adv-pandas1-hw.ipynb)
+1. [Продвинутый pandas-2: joins](https://github.com/Mongolfiera/netology_pyda/blob/master/libs-avd-pandas/libs-adv-pandas2-hw.ipynb)
