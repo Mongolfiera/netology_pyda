@@ -21,3 +21,4 @@
 1. [Функции в Pandas](https://github.com/Mongolfiera/netology_pyda/blob/master/libs-pandas-functions/libs-pandas-functions-hw.ipynb)
 1. [Продвинутый pandas-1: pivot tables](https://github.com/Mongolfiera/netology_pyda/blob/master/libs-avd-pandas/libs-adv-pandas1-hw.ipynb)
 1. [Продвинутый pandas-2: joins](https://github.com/Mongolfiera/netology_pyda/blob/master/libs-avd-pandas/libs-adv-pandas2-hw.ipynb)
+1. [Визуализация данных на Python](https://github.com/Mongolfiera/netology_pyda/blob/master/libs-viz/libs-viz-hw.ipynb)
