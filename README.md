@@ -22,3 +22,9 @@
 1. [Продвинутый pandas-1: pivot tables](https://github.com/Mongolfiera/netology_pyda/blob/master/libs-avd-pandas/libs-adv-pandas1-hw.ipynb)
 1. [Продвинутый pandas-2: joins](https://github.com/Mongolfiera/netology_pyda/blob/master/libs-avd-pandas/libs-adv-pandas2-hw.ipynb)
 1. [Визуализация данных на Python](https://github.com/Mongolfiera/netology_pyda/blob/master/libs-viz/libs-viz-hw.ipynb)
+
+## татистика в Python
+
+1. [Основы описательной статистики, виды распределений в Python](https://github.com/Mongolfiera/netology_pyda/blob/master/stats-basics/dz_1.ipynb)
+1. [Центральная предельная теорема и статистический анализ данных в Python]()
+1. [Основные статистические тесты и проверка гипотез]()
