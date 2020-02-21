@@ -26,5 +26,5 @@
 ## татистика в Python
 
 1. [Основы описательной статистики, виды распределений в Python](https://github.com/Mongolfiera/netology_pyda/blob/master/stats-basics/dz_1.ipynb)
-1. [Центральная предельная теорема и статистический анализ данных в Python]()
+1. [Центральная предельная теорема и статистический анализ данных в Python](https://github.com/Mongolfiera/netology_pyda/blob/master/stats-in-python/dz_2.ipynb)
 1. [Основные статистические тесты и проверка гипотез]()
